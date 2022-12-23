@@ -1,10 +1,10 @@
-a{
-    color: black;
-    font-size:30px;
-}
 p{
     font-family:sans-serif;
 }
 h1{
     font-family: sans-serif;
+}
+img{
+    width: 500px;
+    height: 400px;
 }
