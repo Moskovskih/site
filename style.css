@@ -13,3 +13,7 @@ img{
 h2{
     text-align: center;
 }
+a{
+    border-radius:10px;
+    background-color:red;
+}
